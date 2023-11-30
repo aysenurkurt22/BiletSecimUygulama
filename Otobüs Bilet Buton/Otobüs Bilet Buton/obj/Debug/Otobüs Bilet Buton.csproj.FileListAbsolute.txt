@@ -1,0 +1,22 @@
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.exe.config
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.exe
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.pdb
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.AssemblyReference.cache
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs_Bilet_Buton.Form1.resources
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs_Bilet_Buton.Properties.Resources.resources
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.GenerateResource.cache
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.CoreCompileInputs.cache
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.exe
+C:\Users\nurku\source\newrepos\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.pdb
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.exe.config
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.exe
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\bin\Debug\Otobüs Bilet Buton.pdb
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.AssemblyReference.cache
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs_Bilet_Buton.Properties.Resources.resources
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.GenerateResource.cache
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.csproj.CoreCompileInputs.cache
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.exe
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs Bilet Buton.pdb
+C:\Users\nurku\OneDrive\Masaüstü\projeler\Otobüs Bilet Buton\Otobüs Bilet Buton\obj\Debug\Otobüs_Bilet_Buton.BusTicket.resources
